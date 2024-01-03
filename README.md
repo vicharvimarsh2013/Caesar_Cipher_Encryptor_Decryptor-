@@ -27,9 +27,3 @@ Welcome to the Caesar_Cipher_Encryptor_Decryptor repository—a simple yet power
 ### Contributing:
 
 Contributions to enhance the project's functionality or provide additional cryptographic features are welcome. Fork the repository, make your improvements, and submit a pull request.
-
-### License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Explore the world of cryptography with Caesar_Cipher_Encryptor_Decryptor!
-
-![Caesar_Cipher_Encryptor_Decryptor](demo.png)
